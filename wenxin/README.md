@@ -1,13 +1,10 @@
 # Xiaoxin Robot
 
-1
+Digital therapeutics, in my view, is an incredibly promising and fascinating field.
 
-<iframe width="661" height="1175" 
-        src="https://youtu.be/PwE16vrsFbE"  <!-- 改用短链接，去掉/embed/ -->
-        title="cognitive training" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" 
-        allowfullscreen>
-</iframe>
+By leveraging the unique advantages of the internet, it effectively addresses real-world challenges amid strained and costly healthcare resources—particularly for managing chronic illnesses.
 
-1
+This case study showcases a large language model I developed, rooted in the perspective of cognitive training to alleviate symptoms of Alzheimer's disease.
+
+https://youtu.be/PwE16vrsFbE
+
