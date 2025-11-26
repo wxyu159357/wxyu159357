@@ -8,3 +8,4 @@ This case study showcases a large language model I developed, rooted in the pers
 
 https://youtu.be/PwE16vrsFbE
 
+![TaiChi Cat](https://github.com/wxyu159357/wxyu159357/blob/main/wenxin/xiaoxin_home.jpg?raw=true)
