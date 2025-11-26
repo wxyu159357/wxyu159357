@@ -1,7 +1,14 @@
 ## Hi there 👋
 
+ ###Welcome to Wang Xinyu's GitHub blog website.
+
+ Here I will introduce some of the work I have done. All of these are my valuable experiences, and I will record them here!
+
+ 
+Whether you are a student, a researcher or even a boss, if you are interested in something, you can come and talk to me. 😄😄
+
+
 <!--
-Welcome to Wang Xinyu's GitHub blog website.
 
 Here are some ideas to get you started:
 
