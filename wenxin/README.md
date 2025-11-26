@@ -10,4 +10,12 @@ This case study showcases a large language model I developed, rooted in the pers
 
 https://youtu.be/PwE16vrsFbE
 
-![TaiChi Cat](https://github.com/wxyu159357/wxyu159357/blob/main/wenxin/xiaoxin_home.jpg?raw=true)
+![xiaoxin_home](https://github.com/wxyu159357/wxyu159357/blob/main/wenxin/xiaoxin_home.jpg?raw=true)
+
+I truly believe it’s a real shame this project didn’t achieve a better outcome—for it’s an exceptionally outstanding initiative.
+
+Notably, in the Chinese market, pursuing a Class II medical device certification would validate the product’s efficacy, which would be immensely beneficial for its promotion. 
+
+Meanwhile, a key strength of large language models lies in their human-like interaction capabilities, a feature I see as a major advantage when addressing the needs and challenges of older adults.
+
+![certificate](https://github.com/wxyu159357/wxyu159357/blob/main/wenxin/certificate.jpeg?raw=true)
