@@ -23,3 +23,10 @@ Meanwhile, a key strength of large language models lies in their human-like inte
 ## My Certificate
 
 ![certificate](https://github.com/wxyu159357/wxyu159357/blob/main/wenxin/certificate.jpeg?raw=true)
+
+
+## My AI Agent
+🤖🤖🤖🤖
+I'm currently building an AI Agent！！
+🤖🤖🤖🤖
+![ai](https://github.com/wxyu159357/wxyu159357/blob/main/wenxin/chat_1.png?raw=true)
